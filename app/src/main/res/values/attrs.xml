@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textColor" format="color"/>
+    <attr name="textSize" format="dimension"/>
+    <attr name="HorizontalStepView" format="reference"/>
+    <declare-styleable name="HorizontalStepView">
+        <attr name="textSize"/>
+        <attr name="textColor"/>
+        <attr name="defaultLineColor" format="color"/>
+        <attr name="currentLineColor" format="color"/>
+        <attr name="defaultCircleColor" format="color"/>
+        <attr name="currentCircleColor" format="color"/>
+        <attr name="defaultInnerCircleColor" format="color"/>
+        <attr name="currentInnerCircleColor" format="color"/>
+        <attr name="indicateColor" format="color"/>
+    </declare-styleable>
+</resources>
